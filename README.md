@@ -284,9 +284,9 @@ If you use this research agenda, gap analysis, or benchmark definitions in your 
 ```bibtex
 @misc{mnemos-2026,
   title        = {mnemos: Memory \& Cognition for Human-Level LLMs},
-  author       = {Head of Research},
+  author       = {Naimul Islam Nahid},
   year         = {2026},
-  howpublished = {\url{https://github.com/[your-username]/mnemos}},
+  howpublished = {\url{https://github.com/naimul-islam-64/Mnemos}},
   note         = {Active research program, 2026}
 }
 ```
